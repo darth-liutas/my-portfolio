@@ -1,0 +1,27 @@
+html {
+    height: 100%;
+ background-color:white
+}
+.center{
+padding-left:200px;
+text-align:center;
+
+}
+.container {
+  display: flex;
+  height: 350px;
+ background: linear-gradient(0deg, #FFFFFF 10%, #ADD8E6 90%);
+}
+.description{
+padding-left:20px;	
+}
+.pfp{
+background-color:blue;
+border-radius:50%;	
+}
+.description-card
+  {
+position:relative;
+top: 50px
+
+  }
