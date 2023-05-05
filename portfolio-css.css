@@ -116,8 +116,8 @@ html{
 .project-tile img{
   position:relative;
   height:83%;
-  object-fit:cover;
-  left:-50px;
+  width:100%;
+  object-fit:fill;
 }
 
 #projects button{
